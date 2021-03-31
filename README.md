@@ -8,4 +8,6 @@ React based application with CRUD operaitons and OAuth authentication with the p
 <h3>How to start the app</h3>
 <h5>To start this app on local machine you must open three terminal windows then first window direct to <h4>client</h4> second to <h4>rtmp-server</h4> and third to <h4>server-api</h4> Run all three scripts with <h4>npm start</h4>
   
+App is from Stephen Grider's course "Modern React with Redux" on udemy.com <link>https://www.udemy.com/course/react-redux/</link>. It is great course. :)
+  
   <h2>Enjoy ;)<h2>
